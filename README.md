@@ -16,5 +16,19 @@ Here are some ideas to get you started:
 -->
 ![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
 
-<img width="220" alt="Link" src="https://user-images.githubusercontent.com/91304818/235253248-cbbc9dcd-45f6-47ab-ba31-c577a6053fb8.png">
-<img width="202" alt="Inst" src="https://user-images.githubusercontent.com/91304818/235253284-15ae8728-402e-48bc-8dc1-21b1e773425a.png">
+```dart
+//PERSONAL DRAFT
+#include<family.h>
+#include<friends.h>
+#include<goals.h>
+#include<devSkills.h>
+#include<consistency.h>
+#include<journey.h>
+
+Happiness Life(){
+//Yesterday
+//Today
+//Tomorrow
+return Peace;
+}
+```
