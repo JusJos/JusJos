@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
 
+![MacBook_Air_1](https://user-images.githubusercontent.com/91304818/235264871-59ace584-30d0-4645-9d6a-ca22497df4cf.gif)
+
 
 <div align='center'>
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
@@ -25,6 +27,8 @@ Here are some ideas to get you started:
     <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
+
+
 
 ```dart
 //PERSONAL DRAFT
