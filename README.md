@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Totals Hits](https://komarev.com/ghpvc/?username=jusjos&style=flat&color=orange&label=PROFILE+VIEWS)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FPu0Vgwrk00GxQMZpDvr3N1%2FIphone-Template-(Copy)%3Fnode-id%3D0%253A1%26t%3DN8km1eejhskhLx3m-1" allowfullscreen></iframe>
+![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
+
