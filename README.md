@@ -20,4 +20,8 @@ Here are some ideas to get you started:
   <img src="https://https://listningto.vercel.app//api" alt="Current Spotify Song">
 </a>
 
+&nbsp;<div align="center">
+  [![Spotify](https://listningto.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq)
+</div>
+
 [![Spotify](https://listningto.vercel.app/api/spotify)](https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq)
