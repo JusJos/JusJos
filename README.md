@@ -1,6 +1,3 @@
-![output-onlinegiftools](https://user-images.githubusercontent.com/91304818/235265324-e06c9e36-6b94-48b2-8272-826eae0092d2.gif)
-![MacBook-Air-1-unscreen](https://user-images.githubusercontent.com/91304818/235266441-fee66b00-aaa1-4247-a760-b648f11d7c10.gif)
-
 ### Hi there 👋
 
 <!--
