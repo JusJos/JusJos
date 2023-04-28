@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Happiness Life(){
 //Yesterday
-//Today
+int Today=efforts();
 //Tomorrow
 return Peace;
 }
