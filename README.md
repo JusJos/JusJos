@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://listning-to.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://listning-to.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
 
 ![Preview](https://jusjos.vercel.app/api?theme=dark)
