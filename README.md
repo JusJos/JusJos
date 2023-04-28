@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
 
-<img width="700" alt="Iphone Template (Copy)" src="https://user-images.githubusercontent.com/91304818/235237545-e581eafc-ab3c-4dc7-98c1-042ade268890.png">
+<img width="650" alt="Link" src="https://user-images.githubusercontent.com/91304818/235253248-cbbc9dcd-45f6-47ab-ba31-c577a6053fb8.png">
+<img width="647" alt="Inst" src="https://user-images.githubusercontent.com/91304818/235253284-15ae8728-402e-48bc-8dc1-21b1e773425a.png">
