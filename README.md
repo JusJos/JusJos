@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    
 </div>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" rotate="90" height="20" width="100%" >
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jusjos&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
