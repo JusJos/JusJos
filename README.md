@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 ![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jusjos&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jusjos&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jusjos&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
 <div align='center'>
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
