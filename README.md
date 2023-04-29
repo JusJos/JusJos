@@ -42,51 +42,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JusJos&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=490)](https://git.io/streak-stats)
 
-```css
-.MacBook_Air__1 {
-	transform-box: fill-box;
-	transform-origin: 50% 50%
-}
-.Untitled1removebgpreview_1 {
-	animation: 2s linear 0s 1 normal forwards running Untitled1removebgpreview_1;
-	transform-box: fill-box;
-	transform-origin: 50% 50%
-}
-@keyframes Untitled1removebgpreview_1 {
-	0% {
-		opacity: 1;
-		border-radius: 298px;
-		transform: rotate(0deg);
-	}
-	50% {
-		opacity: 0.78;
-		border-radius: 0px;
-		transform: rotate(-0.9299999999999999deg);
-	}
-	63% {
-		transform: rotate(0deg);
-	}
-	100% {
-		opacity: 1;
-		border-radius: 298px;
-		transform: rotate(0.050000000000000044deg);
-	}
-	12.5% {
-		transform: rotate(-2.15deg);
-	}
-	26.5% {
-		transform: rotate(2.06deg);
-	}
-	38.5% {
-		transform: rotate(0.01999999999999999deg);
-	}
-	62.5% {
-		transform: rotate(-0.10000000000000009deg);
-	}
-	83.5% {
-		transform: rotate(0.050000000000000044deg);
-	}
-}
+
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jusjos)](https://git.io/streak-stats)
 ```dart
@@ -105,3 +61,5 @@ int Today=efforts();
 return Peace;
 }
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjos&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
