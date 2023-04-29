@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 ![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
    
 </div>
+<div align='center'>
+  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/justin-joseph-620702153/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" rotate="90" height="20" width="100%" >
 
@@ -31,15 +40,7 @@ Here are some ideas to get you started:
   <br>
 </p>
 
-<div align='center'>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/justin-joseph-620702153/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
-</div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JusJos&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=490)](https://git.io/streak-stats)
 
