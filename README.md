@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://readme-jokes.vercel.app/api" align='right' alt="Error fetching resource, Refresh again to view Jokes Card" width = '550' />
+<img src="https://readme-jokes.vercel.app/api" align='right' alt="Error fetching resource, Refresh again to view Jokes Card" width = '500' />
 <div align='right'>
 	
 ![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
