@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![communication-icon-conversation-icon-discord-icon-gamer-icon-media-icon-social-icon-speech-bubble-icon-cartoon-violet-purple-png-clipart-removebg]()
 
 
 -->
+                                                                                                         
 <img src="https://readme-jokes.vercel.app/api?hideBorder" align='right' alt="Error fetching resource, Refresh again to view Jokes Card" width = '500' />
-<br></br><br><br><br><br><br>
+<br></br><br><br><br><br><br></tr>
 <img src="https://user-images.githubusercontent.com/91304818/235346614-cf724297-35c4-4679-8d33-bd77ba8bc645.png" align = 'right' width= '350'>
 
 <br><br><br><br><br><br><br>
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/dBaSKWF.gif" rotate="90" height="20" width="100%" >
 
 <p align="center">
+ 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jusjos&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jusjos&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=jusjos&theme=darcula&hide_border=true&background=FFFFFF00">
@@ -69,3 +70,6 @@ return Peace;
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjos&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+
+ <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><br><br>
