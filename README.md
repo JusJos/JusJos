@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder" align='right' alt="Error fetching resource, Refresh again to view Jokes Card" width = '500' />
-<div align='right'>
-	
-![90595977-95e70e80-e220-11ea-864a-6a61adaff212-removebg-preview](https://user-images.githubusercontent.com/91304818/235234820-ebb2bbf0-1623-43dc-8307-e4d7a494b865.png)
-   
-</div>
+<br></br><br><br><br><br><br>
+<img src="https://user-images.githubusercontent.com/91304818/235346614-cf724297-35c4-4679-8d33-bd77ba8bc645.png" align = 'right' width= '350'>
+
+<br><br><br><br><br><br><br>
 <div align='center'>
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
   <p align='center'>
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
     <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" rotate="90" height="20" width="100%" >
 
