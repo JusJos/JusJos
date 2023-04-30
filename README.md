@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![communication-icon-conversation-icon-discord-icon-gamer-icon-media-icon-social-icon-speech-bubble-icon-cartoon-violet-purple-png-clipart-removebg]()
 
 
 -->
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/91304818/235352366-444890af-bff2-48b9-b3e9-9d1bbece6d1e.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 
@@ -61,6 +63,9 @@ return Peace;
 }
 ```
 </div>
+
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=jusjos&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjos&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
