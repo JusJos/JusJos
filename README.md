@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 -->
-![snake svg](https://github.com/JusJos/JusJos/output/github-contribution-grid-snake.svg)                                                                                                         
+                                                                                                       
 <img src="https://readme-jokes.vercel.app/api?hideBorder" align='right' alt="Error fetching resource, Refresh again to view Jokes Card" width = '500' />
 <br></br><br><br><br><br><br></tr>
 <img src="https://user-images.githubusercontent.com/91304818/235346614-cf724297-35c4-4679-8d33-bd77ba8bc645.png" align = 'right' width= '350'>
@@ -69,19 +69,16 @@ return Peace;
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjos&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-<div align='right'>
- <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Thank You! for visiting<br><br><br><br> </div>
-   
-   
    
    
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/jusjos/jusjos/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/JusJos/JusJos/output/github-contribution-grid-snake.svg" width="100%"/>
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/jusjos/main/github-metrics.svg">
-</p>
+  
+<div align='right'>
+ <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Thank You! for visiting<br><br><br><br> </div>
+
