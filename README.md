@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![image-removebg-preview (17)](https://user-images.githubusercontent.com/91304818/236823617-54d23c2d-bb55-462d-862a-531f583ac7cc.png)
 
 
 -->
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/justin._.jos/" target="_blank"><img height="45" src="https://user-images.githubusercontent.com/91304818/236822306-601529aa-e8cf-484d-ad8c-d6e262bfa46c.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/justin._.jos/" target="_blank"><img height="37" src="https://user-images.githubusercontent.com/91304818/236823617-54d23c2d-bb55-462d-862a-531f583ac7cc.png"></a>&nbsp;&nbsp;
     <a href="https://discord.gg/3A94E29vFt" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/91304818/235352366-444890af-bff2-48b9-b3e9-9d1bbece6d1e.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </div>
@@ -83,4 +84,12 @@ return Peace;
 <div align='right'>
  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Thank You! for visiting<br><br><br><br> </div>
+   
+   
+   
+![github](https://user-images.githubusercontent.com/91304818/236824717-51e3e8c0-7a6c-408d-8bfb-7e687894498b.svg)
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>github</title>
+<path d="M0 15.968q0-3.264 1.28-6.208 2.528-5.952 8.48-8.48 2.944-1.28 6.208-1.28t6.208 1.28q5.888 2.496 8.48 8.48 1.28 3.040 1.28 6.208t-1.28 6.208q-2.592 6.016-8.48 8.544-2.944 1.28-6.208 1.28t-6.208-1.28q-5.952-2.56-8.48-8.544-1.28-2.944-1.28-6.208zM2.496 15.968q0 4.512 2.688 8.064 2.656 3.488 6.944 4.96v-2.56q0-1.92 1.28-2.784-0.64-0.032-1.504-0.224-1.632-0.288-2.784-1.024-2.912-1.76-2.912-6.368 0-2.4 1.6-4.096-0.736-1.888 0.16-4.096h0.64q0.32 0 0.8 0.16 1.248 0.384 2.784 1.408 1.952-0.512 3.84-0.512t3.872 0.512q1.248-0.832 2.336-1.28 1.024-0.384 1.472-0.32l0.384 0.032q0.864 2.208 0.16 4.096 1.6 1.696 1.6 4.096 0 3.584-1.76 5.408-0.96 1.024-2.528 1.6-1.312 0.48-2.912 0.608 1.312 0.928 1.312 2.784v2.56q4.128-1.472 6.816-5.024 2.624-3.52 2.624-8 0-2.72-1.056-5.248-1.024-2.432-2.88-4.288-1.792-1.792-4.288-2.848-2.56-1.088-5.216-1.088-2.624 0-5.248 1.088-2.4 1.024-4.288 2.848-1.792 1.856-2.88 4.288-1.056 2.528-1.056 5.248z"></path>
+</svg>
 
