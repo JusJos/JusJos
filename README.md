@@ -29,9 +29,11 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/justin._.jos/" target="_blank"><img height="45" src="https://user-images.githubusercontent.com/91304818/236822306-601529aa-e8cf-484d-ad8c-d6e262bfa46c.png"></a>&nbsp;&nbsp;
     <a href="https://discord.gg/3A94E29vFt" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/91304818/235352366-444890af-bff2-48b9-b3e9-9d1bbece6d1e.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </div>
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" rotate="90" height="20" width="100%" >
