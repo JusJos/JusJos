@@ -72,9 +72,9 @@ return Peace;
    
    
 <p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="400"><br>
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/JusJos/JusJos/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/JusJos/JusJos/output/github-contribution-grid-snake.svg" width="75%"/>
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <p>
   
