@@ -66,21 +66,6 @@ return Peace;
 }
 ```
 
-<!--
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=jusjos&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
--->
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjos&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-   
-   
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="400"><br>
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/JusJos/JusJos/output/github-contribution-grid-snake.svg" width="90%"/>
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<p>
-  
 <div align='right'>
  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Thank You! for visiting<br><br><br><br> </div>
