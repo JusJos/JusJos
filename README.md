@@ -51,19 +51,28 @@ Here are some ideas to get you started:
  
 ```dart
 //PERSONAL DRAFT
-#include<family.h>
-#include<friends.h>
-#include<goals.h>
-#include<devSkills.h>
-#include<consistency.h>
-#include<journey.h>
+#include <family.h>
+#include <friends.h>
+#include <goals.h>
+#include <devSkills.h>
+#include <consistency.h>
+#include <journey.h>
 
-Happiness Life(){
-//Yesterday
-int Today=efforts();
-//Tomorrow
-return Peace;
+struct Happiness {
+    int peace;
+};
+
+Happiness liveHappyLife() {
+    return {efforts() + family::bond() + friends::bond() + goals::achieve() +
+            devSkills::improve() + consistency::maintain() + journey::enjoy()};
 }
+
+int main() {
+    Happiness futureHappiness = liveHappyLife();
+    std::cout << "Future Happiness Level: " << futureHappiness.peace << std::endl;
+    return 0;
+}
+
 ```
 
 <div align='right'>
