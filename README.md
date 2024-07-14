@@ -69,7 +69,7 @@ Happiness liveHappyLife() {
 
 int main() {
     Happiness futureHappiness = liveHappyLife();
-    std::cout << "Future Happiness Level: " << futureHappiness.peace << std::endl;
+    std::cout << "Future Happiness Level: " << future_happiness.peace << std::endl;
     return 0;
 }
 
