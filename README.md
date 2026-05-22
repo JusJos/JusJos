@@ -20,6 +20,8 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+<img src="https://user-images.githubusercontent.com/91304818/235346614-cf724297-35c4-4679-8d33-bd77ba8bc645.png" align="right" width="300" alt="Justin's Avatar" />
+
 ```javascript
 const justin = {
     pronouns: "He/Him",
@@ -41,7 +43,7 @@ const justin = {
 };
 ```
 
-<br>
+<br clear="both">
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
@@ -108,6 +110,22 @@ const justin = {
 
 <br>
 
+<!-- LeetCode Stats -->
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/tehee">
+  <img width="49%" src="https://leetcard.jacoblin.cool/tehee?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+</a>
+<a href="https://leetcode.com/tehee">
+  <img width="49%" src="https://leetcard.jacoblin.cool/tehee?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=10" alt="LeetCode Activity" />
+</a>
+
+</div>
+
+<br>
+
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
@@ -165,6 +183,10 @@ const justin = {
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
+<a href="https://leetcode.com/tehee">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
 <a href="https://twitter.com/eeht1717">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
@@ -175,6 +197,16 @@ const justin = {
 &nbsp;
 <a href="https://open.spotify.com/user/31hwcqsifxpl57o">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
+
+</div>
+
+<!-- LinkedIn & LeetCode Profile Cards -->
+<div align="center">
+<br>
+
+<a href="https://www.linkedin.com/in/justin-joseph-620702153/">
+  <img src="https://github-readme-linkedin-cspjyv7nw-nickaroot.vercel.app/profile?vanity=justin-joseph-620702153" alt="LinkedIn Profile" width="49%" />
 </a>
 
 </div>
