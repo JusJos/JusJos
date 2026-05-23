@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Justin%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Lover&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2a0f15,100:6d1f2e&height=220&section=header&text=Justin%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Lover&descSize=16&descAlignY=55&descColor=d4a574" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Justin!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%A4%96+Passionate+about+AI+%26+Web+Dev;%E2%9A%A1+Always+learning+something+new" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D1F2E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Justin!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%A4%96+Passionate+about+AI+%26+Web+Dev;%E2%9A%A1+Always+learning+something+new" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jusjos&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jusjos&style=for-the-badge&color=6d1f2e&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/jusjos?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/jusjos?style=for-the-badge&color=6d1f2e&labelColor=0d1117&logo=github)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/jusjos?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/jusjos?style=for-the-badge&color=6d1f2e&labelColor=0d1117&logo=github)
 
 </div>
 
@@ -47,7 +47,7 @@ const justin = {
 
 <!-- Fun Fact -->
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=github_dark&qColor=%236e40c9&aColor=%238b949e&bgColor=%230d1117&borderColor=%23161b22" alt="Jokes Card" width="500" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=github_dark&qColor=%236d1f2e&aColor=%238b949e&bgColor=%230d1117&borderColor=%23161b22" alt="Jokes Card" width="500" />
 </div>
 
 <br>
@@ -93,14 +93,14 @@ const justin = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jusjos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9" alt="Justin's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusjos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jusjos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6d1f2e&icon_color=6d1f2e&text_color=8b949e&ring_color=6d1f2e" alt="Justin's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusjos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6d1f2e&text_color=8b949e&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jusjos&theme=dark&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak Stats" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jusjos&theme=dark&hide_border=true&background=0d1117&stroke=6d1f2e&ring=6d1f2e&fire=6d1f2e&currStreakLabel=6d1f2e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -165,14 +165,14 @@ const justin = {
 <div align="center">
 
 ### 🎧 Vibing To
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hwcqsifxpl57o&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6e40c9)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hwcqsifxpl57o&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hwcqsifxpl57o&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6d1f2e)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hwcqsifxpl57o&redirect=true)
 
 </div>
 
 <br>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2a0f15,100:6d1f2e&height=120&section=footer" width="100%" />
 
 <!-- Easter Egg -->
 <div align="center">
