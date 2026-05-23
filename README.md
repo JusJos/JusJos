@@ -99,17 +99,6 @@ const justin = {
 
 <br>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jusjos&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
-<br>
-
 <!-- LeetCode Stats -->
 ## 🧠 LeetCode Stats
 
@@ -148,32 +137,6 @@ const justin = {
 
 <br>
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Justin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jusjos&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jusjos/jusjos/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jusjos/jusjos/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jusjos/jusjos/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
-
 <!-- Connect Section -->
 ## 🤝 Let's Connect!
 
@@ -201,16 +164,6 @@ const justin = {
 
 </div>
 
-<!-- LinkedIn & LeetCode Profile Cards -->
-<div align="center">
-<br>
-
-<a href="https://www.linkedin.com/in/justin-joseph-620702153/">
-  <img src="https://github-readme-linkedin-cspjyv7nw-nickaroot.vercel.app/profile?vanity=justin-joseph-620702153" alt="LinkedIn Profile" width="49%" />
-</a>
-
-</div>
-
 <br>
 
 <!-- Random Dev Quote -->
@@ -232,17 +185,6 @@ const justin = {
 </div>
 
 <br>
-
-<!-- Fun Counter -->
-<div align="center">
-
-### ☕ Fun Stats
-  
-![Code Time](https://img.shields.io/badge/Code%20Time-∞%20hrs-6e40c9?style=for-the-badge&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Public%20Repos-30-6e40c9?style=for-the-badge&labelColor=0d1117)
-![Commits](https://img.shields.io/badge/Total%20Commits-Let's%20Go!-6e40c9?style=for-the-badge&labelColor=0d1117)
-
-</div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
