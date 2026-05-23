@@ -45,6 +45,13 @@ const justin = {
 
 <br clear="both">
 
+<!-- Fun Fact -->
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=github_dark&qColor=%236e40c9&aColor=%238b949e&bgColor=%230d1117&borderColor=%23161b22" alt="Jokes Card" width="500" />
+</div>
+
+<br>
+
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
@@ -109,28 +116,6 @@ const justin = {
 </a>
 <a href="https://leetcode.com/tehee">
   <img width="49%" src="https://leetcard.jacoblin.cool/tehee?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=10" alt="LeetCode Activity" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/JusJos/ANPR_SYSTEM">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jusjos&repo=ANPR_SYSTEM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/JusJos/coachBooking">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jusjos&repo=coachBooking&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/JusJos/Cookie-Authenticator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jusjos&repo=Cookie-Authenticator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/JusJos/Simplify360">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jusjos&repo=Simplify360&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
 </a>
 
 </div>
